@@ -55,7 +55,7 @@
 ---
 
 ## 🧭 Focus Areas
-🌐 **Cybersecurity Architecture** — Threat Modeling · SOC · Incident Response 
+🌐 **Cybersecurity Architecture** — Threat Modeling · SOC · Incident Response   
 🤖 **AI & Automation** — RPA · LLM Integration · AI Explainability  
 🧩 **Governance & Risk** — ISO 27001 · ISO 9001 . ITIL. Risk Frameworks · Compliance Management . Lean Six Sigma  
 💡 **MLOps / AIOps** —  Python . LLM . Secure Model Deployment  
@@ -80,7 +80,7 @@
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prageeth%20Panicker-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prageeth-panicker)
-[![GitHub](https://img.shields.io/badge/GitHub-PrageethPanicker-black?logo=github&logoColor=white)](https://github.com/PrageethPanicker)
+[![GitHub](https://img.shields.io/badge/GitHub-pragepani-black?logo=github&logoColor=white)](https://github.com/PrageethPanicker)
 
 ---
 
