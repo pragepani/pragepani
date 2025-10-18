@@ -47,9 +47,7 @@
 ![Snort](https://img.shields.io/badge/Snort-Intrusion%20Detection-red?style=for-the-badge)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-orange?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AI Core](https://img.shields.io/badge/SAP-AI%20Core-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-DeepSeek%20%7C%20Ollama%20%7C%20RAG-green?style=for-the-badge)
 
 ---
