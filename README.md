@@ -90,3 +90,13 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+---
+
+<div align="center">
+
+### 🧠 *Thanks for visiting!*
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/prageeth-panicker) or explore my [Cybersecurity Portfolio](https://github.com/prageppani/Cybersecurity-Portfolio)
+
+</div>
+
+---
