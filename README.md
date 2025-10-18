@@ -83,7 +83,7 @@
 ---
 
 ### ✍️ Quote That Guides Me
-> *"Automation and Security are not opposites — they are the foundation of resilient systems."*
+> *"The secret of change is to focus all of your energy, not on fighting the old, but on building the new." --  Dan Millman*
 
 ---
 
