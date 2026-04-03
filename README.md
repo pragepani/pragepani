@@ -1,19 +1,9 @@
-# 💫 Hi 👋, I'm Prageeth Panicker  
-**Cybersecurity (SOC / Detection) | AI Automation | Risk & Compliance (ISO 27001)**  
-
----
+💫 Hi 👋, I'm Prageeth Panicker
+Cybersecurity (SOC / Detection) | AI Automation | Risk & Compliance (ISO 27001)
 
 🛡️ About Me
 I'm a cybersecurity professional specialising in Security Operations, Detection Engineering, and AI-driven security automation, backed by 11+ years of enterprise ISO 27001 governance and compliance leadership.
-
-🔭 Currently working on: DevSecOps at Webeet + personal cybersecurity and self-hosted AI projects
-🎯 Focus areas: SOC Operations · SIEM · Detection Engineering · AI Security Automation · ISO 27001 Compliance
-🌱 Building: Self-hosted AI for security — locally run LLMs for explainable threat detection
-👯 Open to collaborate on: Security automation, SIEM detection content, AI-driven security tooling
-💬 Ask me about: ISO 27001 audit readiness, SIEM operations, AI-powered phishing triage, network intrusion detection
-⚡ Fun fact: Delivered USD 3.4M+ in efficiency gains through process automation and Six Sigma initiatives
-
----
+🔭 Currently working onDevSecOps at Webeet + personal cybersecurity and self-hosted AI projects🎯 Focus areasSOC Operations · SIEM · Detection Engineering · AI Security Automation · ISO 27001🌱 BuildingSelf-hosted AI for security — locally run LLMs for explainable threat detection👯 Open to collaborate onSecurity automation, SIEM detection content, AI-driven security tooling💬 Ask me aboutISO 27001 audit readiness, SIEM operations, AI-powered phishing triage, network intrusion detection⚡ Fun factDelivered USD 3.4M+ in efficiency gains through process automation and Six Sigma initiatives
 
 🧭 What I Do
 🛡️ SOC & Detection Engineering
@@ -43,7 +33,6 @@ ISO 27001 Lead Auditor — audit evidence coordination, SoA preparation, control
 Risk treatment alignment, corrective action validation, Annex A control adherence
 Compliance frameworks: DSGVO, NIS2, PCI DSS, NIST, HIPAA
 
----
 
 🧠 Certifications
 🎓 Cybersecurity & Compliance
@@ -59,7 +48,6 @@ PMP · Six Sigma Black Belt · ITIL v4 Foundation · CMMI SVC 1.3
 
 Post Graduate Diploma — AI & ML (IIIT Bangalore)
 
----
 
 💻 Tech Stack
 CategoryToolsSIEM & MonitoringWazuh, ELK Stack, Splunk, ElasticsearchNetwork DetectionZeek, Snort, Wireshark, NmapThreat IntelligenceMISP, OpenCTI, VirusTotal, AbuseIPDBAI & AutomationPython, n8n, GPT-4o, LightGBM, Llama 3.1DevSecOpsTerraform, GitHub Actions, Syft, Docker, AWS SSMInfrastructureLinux, Windows Server (AD DS, DNS, DHCP), pfSense, AWSComplianceISO 27001, DSGVO, NIS2, PCI DSS, NIST
@@ -98,16 +86,10 @@ AD DS, DNS, DHCP in a VLAN-segmented network with GPO security baselines
 Lateral movement simulation and detection validation via Windows Event IDs 4624, 4672, 4776
 Pass-the-hash and privilege escalation pattern detection confirmed in Wazuh
 
----
 
 🏆 Key Achievements
+💰USD 2M–2.5M annual efficiency gains through SAP process automation including identity lifecycle management💰USD 1.4M productivity gains via Six Sigma and Lean — MTTR reduction, false positive rate improvement⚙️Increased automation maturity from 3% to 30% across managed service operations at Wipro🔐Zero major non-conformities across two consecutive ISO 27001 audit cycles🤖Built self-hosted AI security tools — phishing triage in 90 seconds, on-premise NIDS with LLM explainability🛡️Eliminated SSH exposure across 3 AWS environments via Zero Trust SSM migration at Webeet
 
-💰 USD 2M–2.5M annual efficiency gains through SAP process automation including identity lifecycle management
-💰 USD 1.4M productivity gains via Six Sigma and Lean — MTTR reduction, false positive rate improvement
-⚙️ Increased automation maturity from 3% to 30% across managed service operations at Wipro
-🔐 Zero major non-conformities across two consecutive ISO 27001 audit cycles
-🤖 Built self-hosted AI security tools — phishing triage in 90 seconds, on-premise NIDS with LLM explainability
-🛡️ Eliminated SSH exposure across 3 AWS environments via Zero Trust SSM migration at Webeet
 
 ---
 
