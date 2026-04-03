@@ -3,93 +3,111 @@
 
 ---
 
-## 🛡️ About Me
-I’m a cybersecurity professional specializing in Security Operations and Detection Engineering, with deep expertise in automation, process excellence, and ISO-based governance.
+🛡️ About Me
+I'm a cybersecurity professional specialising in Security Operations, Detection Engineering, and AI-driven security automation, backed by 11+ years of enterprise ISO 27001 governance and compliance leadership.
 
-- 🔭 Currently working on: **Cybersecurity lab projects (SOC-style monitoring, detections, automation)**
-- 🎯 Focus areas: **Cyber Defense · SIEM · Threat Hunting · Detection Engineering · AI Automation**
-- 🌱 Learning: **Generative AI for security use-cases + MITRE ATT&CK mapping**
-- 👯 Looking to collaborate on: **Security automation, SIEM content/detections, GenAI security projects**
-- 💬 Ask me about: **ISO 27001 controls & audit evidence, risk management, process automation**
-- ⚡ Fun fact: Delivered **$4M+ cost savings** via automation and process optimization
-
----
-
-## 🧭 What I Do (Core Themes)
-### 🛡️ SOC & Detection Engineering
-- SIEM operations and multi-source log monitoring (**Wazuh / ELK**)  
-- Detection logic aligned to **MITRE ATT&CK**  
-- Event correlation, triage, and incident-response workflows  
-- Network monitoring and visibility (**Zeek, Snort, Wireshark**)
-
-### 🤖 Automation & Secure Platform Ops
-- Terraform automation for monitoring platforms and dashboards (Grafana + datasources)  
-- SBOM generation pipelines (Syft) integrated into CI/CD (GitHub Actions)  
-- Audit-ready documentation and evidence collection for compliance programs
-
-### 🧩 Governance, Risk & Compliance (GRC)
-- **ISO 27001** control mapping, SoA contribution, audit evidence preparation  
-- Risk treatment alignment, continuous improvement and control operationalization  
-- Familiarity with **GDPR/DSGVO** and modern security program practices
+🔭 Currently working on: DevSecOps at Webeet + personal cybersecurity and self-hosted AI projects
+🎯 Focus areas: SOC Operations · SIEM · Detection Engineering · AI Security Automation · ISO 27001 Compliance
+🌱 Building: Self-hosted AI for security — locally run LLMs for explainable threat detection
+👯 Open to collaborate on: Security automation, SIEM detection content, AI-driven security tooling
+💬 Ask me about: ISO 27001 audit readiness, SIEM operations, AI-powered phishing triage, network intrusion detection
+⚡ Fun fact: Delivered USD 3.4M+ in efficiency gains through process automation and Six Sigma initiatives
 
 ---
 
-## 🧠 Certifications & Professional Credentials
-### 🎓 Cybersecurity & IT Governance
-- CompTIA **Security+**
-- **ITIL v4 Foundation**
-- **ISO 27001:2022 Lead Auditor**
-- **ISO 9001:2015 Lead Auditor**
+🧭 What I Do
+🛡️ SOC & Detection Engineering
 
-### 🧩 Project & Process Excellence
-- **PMP**
-- **Six Sigma Black Belt**
-- Lean Six Sigma
-- CMMI SVC 1.3
+SIEM operations across Wazuh, ELK, and Splunk — multi-source log monitoring and correlation
+L1/L2 alert triage following full detection → triage → investigation → containment → reporting lifecycle
+Detection logic aligned to MITRE ATT&CK across brute-force, privilege escalation, lateral movement, and C2 patterns
+Network monitoring and visibility using Zeek, Snort, and Wireshark
 
-### 🤖 AI, Data & Automation
-- Post Graduate Diploma – **AI & ML (IIIT-B)**
-- Automation Anywhere Advanced RPA
-- SAP Intelligent RPA
-- Stanford Product Management
+🤖 AI-Driven Security Automation
 
----
+GPT-4o orchestration for automated SOC report generation — phishing triage in under 90 seconds
+Locally hosted LLM (Llama 3.1 8B) for on-premise, privacy-respecting alert explainability
+ML-based intrusion detection combining LightGBM classification and autoencoder anomaly detection
+n8n workflow automation integrating threat intelligence APIs (VirusTotal, AbuseIPDB, urlscan.io)
 
-## 💻 Tech & Security Stack
-**SOC / SIEM:** Wazuh, ELK, Detection Engineering, MITRE ATT&CK  
-**Network Monitoring:** Zeek, Snort, Wireshark  
-**Assessment / IR:** Nmap, Nessus, Vulnerability Assessment, Incident Response  
-**Automation / DevSecOps:** Terraform, GitHub Actions, SBOM (Syft)  
-**Systems:** Linux, Windows, Docker  
-**Programming:** Python (automation + ML scripting)  
-**Cloud (Lab):** AWS (VPC design, IAM, logging/retention concepts)
+☁️ DevSecOps & Infrastructure Security
+
+Zero Trust access enforcement via AWS SSM Session Manager — eliminating SSH exposure
+SIEM rule deployment automation via Kibana API — detection as code
+SBOM generation with Syft integrated into Docker CI/CD pipelines (CycloneDX format)
+Terraform multi-environment provisioning with isolated state backends
+
+🧩 Governance, Risk & Compliance
+
+ISO 27001 Lead Auditor — audit evidence coordination, SoA preparation, control implementation
+Risk treatment alignment, corrective action validation, Annex A control adherence
+Compliance frameworks: DSGVO, NIS2, PCI DSS, NIST, HIPAA
 
 ---
 
-## 🚀 Featured Projects
-### 🔎 Wazuh SIEM Deployment & Multi-Source Enterprise Monitoring
-- Built an enterprise-style Wazuh SIEM across multiple agents and syslog sources
-- Correlated events across Windows/Linux/firewalls & vulnerable systems
-- Created **MITRE-aligned detections** and compliance-minded categorization (audit readiness)
+🧠 Certifications
+🎓 Cybersecurity & Compliance
 
-### 🌐 Network Monitoring using Zeek
-- Set up a Zeek cluster for protocol-level visibility and threat-hunting workflows
-- Captured and analyzed DNS/HTTP/SSH/MySQL activity and scan-like behaviors
-- Tuned interfaces and stabilized a scalable architecture (manager/proxy/workers)
+CompTIA A+ · CompTIA Security+ · AWS Cloud Practitioner
+ISO 27001:2022 Lead Auditor (Bureau Veritas · Dec 2024)
 
-### 🏗️ Enterprise Security Architecture (EVE-NG Lab)
-- Designed segmented enterprise network security architecture (multi-VLAN) with HA and validation docs
-- Integrated monitoring pipelines and structured SOC playbooks for triage and response
-- Extended into cloud-lab security concepts (Terraform-built environments + logging patterns)
+🧩 Governance & Process
+
+PMP · Six Sigma Black Belt · ITIL v4 Foundation · CMMI SVC 1.3
+
+🤖 AI & Data
+
+Post Graduate Diploma — AI & ML (IIIT Bangalore)
 
 ---
 
-## 🏆 Achievements
-- 💰 Delivered **$4M+** in cost savings via automation & process optimization  
-- ⚙️ Increased automation maturity **3% → 30%** across managed service projects  
-- 🕵️‍♂️ Implemented risk and incident-response workflows aligned to **ISO 27001**  
-- 🤖 Built AI-assisted explainability concepts for security analytics (NIDS/ML-style pipelines)  
-- 🌟 Consistent audit readiness + strong customer satisfaction outcomes  
+💻 Tech Stack
+CategoryToolsSIEM & MonitoringWazuh, ELK Stack, Splunk, ElasticsearchNetwork DetectionZeek, Snort, Wireshark, NmapThreat IntelligenceMISP, OpenCTI, VirusTotal, AbuseIPDBAI & AutomationPython, n8n, GPT-4o, LightGBM, Llama 3.1DevSecOpsTerraform, GitHub Actions, Syft, Docker, AWS SSMInfrastructureLinux, Windows Server (AD DS, DNS, DHCP), pfSense, AWSComplianceISO 27001, DSGVO, NIS2, PCI DSS, NIST
+
+🚀 Featured Projects
+🎣 AI-Powered Phishing Email Analyzer
+
+37-node n8n workflow integrating AbuseIPDB, VirusTotal, urlscan.io, and WhoisXML API
+SPF/DKIM/DMARC validation, IP reputation scoring, multi-engine URL analysis, domain intelligence
+Weighted risk scoring (0–200) feeding GPT-4o to generate MITRE ATT&CK-mapped SOC reports (T1566.001)
+Full analyst-ready verdict in under 90 seconds across 7 detection signals and 4 intelligence layers
+
+🧠 AI-Driven Explainable Network Intrusion Detection (NIDS)
+
+Multi-tier detection: LightGBM classification + autoencoder anomaly detection + rule-based validation
+RAG-based explainability layer using locally hosted Llama 3.1 8B — no cloud dependency
+MITRE ATT&CK-mapped alert context generated in 2–3 seconds per attack
+77–99% detection rate on live Zeek traffic; validated on CIC-IDS2017 benchmark
+
+🔎 Wazuh SIEM & SOC Monitoring Lab
+
+Wazuh SIEM with agent and syslog integration across Windows, Linux, and pfSense
+20+ MITRE ATT&CK detection use cases with DSGVO/NIST/PCI DSS/HIPAA compliance tagging
+99.5% noise reduction while maintaining detection coverage for security-relevant alerts at >200K events/day
+Full L1/L2 triage lifecycle: detection → triage → investigation → containment → reporting
+
+🌐 Zeek Network Monitoring Cluster
+
+4-component manager-worker cluster monitoring 8 VMs across 2 network segments
+Active protocol detection: DNS, HTTP, SSH, MySQL, SMTP
+Threshold-based C2 beaconing detection integrated into ELK/Wazuh pipelines
+
+🖥️ Segmented Windows Server Environment & Hardening
+
+AD DS, DNS, DHCP in a VLAN-segmented network with GPO security baselines
+Lateral movement simulation and detection validation via Windows Event IDs 4624, 4672, 4776
+Pass-the-hash and privilege escalation pattern detection confirmed in Wazuh
+
+---
+
+🏆 Key Achievements
+
+💰 USD 2M–2.5M annual efficiency gains through SAP process automation including identity lifecycle management
+💰 USD 1.4M productivity gains via Six Sigma and Lean — MTTR reduction, false positive rate improvement
+⚙️ Increased automation maturity from 3% to 30% across managed service operations at Wipro
+🔐 Zero major non-conformities across two consecutive ISO 27001 audit cycles
+🤖 Built self-hosted AI security tools — phishing triage in 90 seconds, on-premise NIDS with LLM explainability
+🛡️ Eliminated SSH exposure across 3 AWS environments via Zero Trust SSM migration at Webeet
 
 ---
 
@@ -97,10 +115,6 @@ I’m a cybersecurity professional specializing in Security Operations and Detec
 - LinkedIn: **Prageeth Panicker**
 - GitHub: **@pragepani**
 - Location: **Düsseldorf, Germany**
-
----
-
-⭐ If you’re working on SIEM detections, SOC automation, or GenAI security projects — let’s collaborate.
 
 ---
 
